@@ -1,3 +1,114 @@
+# ❌⭕ Tic-Tac-Toe Game
+
+A simple and interactive Tic-Tac-Toe game built using modern web technologies. Play against another player and enjoy a clean UI with instant win detection.
+
+---
+
+## 🎮 Features
+
+* 👥 Two-player gameplay (Player X vs Player O)
+* ⚡ Real-time move updates
+* 🧠 Win and draw detection logic
+* 🔄 Restart game functionality
+* 🎨 Clean and responsive UI
+
+---
+
+## 🛠️ Tech Stack
+
+* HTML5
+* CSS3 / Tailwind CSS
+* React Js
+
+---
+
+## 📂 Project Structure
+
+```
+root/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
+
+*(If using React, replace with components structure)*
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone the repository
+
+```
+git clone https://github.com/your-username/tic-tac-toe.git
+cd tic-tac-toe
+```
+
+### 2️⃣ Run the project
+
+* Open `index.html` in your browser
+
+**OR (for React app):**
+
+```
+npm install
+npm start
+```
+
+---
+
+## 🧩 How It Works
+
+* The game board consists of a 3x3 grid
+* Players take turns placing X and O
+* After each move, the game checks:
+
+  * Winning combinations
+  * Draw condition
+* The game displays the result instantly
+
+---
+
+## 📸 Screenshots
+
+*Add your project screenshots here*
+
+---
+
+## 🚧 Future Improvements
+
+* 🤖 Add AI (Play vs Computer)
+* 🌐 Online multiplayer mode
+* 🎵 Sound effects
+* 🏆 Score tracking system
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+1. Fork the repo
+2. Create a new branch
+3. Commit changes
+4. Push and create a Pull Request
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 🙌 Acknowledgements
+
+* Inspired by classic Tic-Tac-Toe game
+* Built for learning and practice
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
