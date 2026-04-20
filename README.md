@@ -28,22 +28,18 @@ A simple and interactive Tic-Tac-Toe game built using modern web technologies. P
 root/
 │
 ├── index.html
-├── style.css
-├── script.js
+├── App.css
+├── App.js
 └── README.md
+
 ```
-
-*(If using React, replace with components structure)*
-
----
 
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the repository
 
 ```
-git clone https://github.com/your-username/tic-tac-toe.git
-cd tic-tac-toe
+git clone https://github.com/vineettomar18/Tic-Tac-Toe-Game/
 ```
 
 ### 2️⃣ Run the project
@@ -68,15 +64,7 @@ npm start
   * Winning combinations
   * Draw condition
 * The game displays the result instantly
-
----
-
-## 📸 Screenshots
-
-*Add your project screenshots here*
-
----
-
+  
 ## 🚧 Future Improvements
 
 * 🤖 Add AI (Play vs Computer)
